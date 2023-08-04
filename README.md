@@ -1,1 +1,1 @@
-# Fish-Weight-Prediction
+# Ice-Cream-Sales-Prediction
